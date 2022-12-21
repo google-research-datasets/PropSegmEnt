@@ -5,7 +5,7 @@ PropSegmEnt is an annotated dataset for segmenting English text into proposition
 The dataset annotates samples of document clusters from two datasets with topically clustered documents:
 [NewSHead](https://github.com/google-research-datasets/NewSHead), from the news domain, and [Wikipedia Translated Clusters](https://github.com/google-research-datasets/wiki-translated-clusters-nli), from Wikipedia.
 
-The construction of the dataset is described in detail in our [PropSegmEnt paper preprint](https://github.com/google-research-datasets/PropSegmEnt/propsegment-preprint.pdf).
+The construction of the dataset is described in detail in our [PropSegmEnt paper preprint](https://github.com/google-research-datasets/PropSegmEnt/raw/main/propsegment-preprint.pdf).
 
 ## File structure
 
